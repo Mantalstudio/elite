@@ -10,6 +10,13 @@
     ##### Login Method
     - [+] Login With Token
     - [+] Login With Cookie
+      ##### Cracking Method
+       - [+] B-Api Facebook
+       - [+] Mbasic Facebook
+       - [+] Free Facebook
+       - [+] X Facebook
+       - [+] D Facebook
+       - [+] Touch Facebook
 ## Screenshot :)
 <p align="center">
  <img src="https://github.com/Bilal-XD/elite/blob/main/Screenshots/20220105_153612.jpg" width="1350" title="Menu" alt="Menu">
