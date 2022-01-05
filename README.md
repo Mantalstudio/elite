@@ -7,7 +7,9 @@
  - [+] Chack Crack Result Information
  - [+] Chack Chackpoint ID Option 
  - [+] User-Agent
-
+    ##### Login Method
+    - [+] Login With Token
+    - [+] Login With Cookie
 ## Screenshot :)
 <p align="center">
  <img src="https://github.com/Bilal-XD/elite/blob/main/Screenshots/20220105_153612.jpg" width="1350" title="Menu" alt="Menu">
@@ -29,11 +31,3 @@
 
 #### WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
-   - [+] Crack ID From Public 
-   - [+] Crack ID From Follower
-   - [+] Crack ID From Reacts Post
-   - [+] Chack Target ID Information
-   - [+] Dump ID Freind List ID
-   - [+] Chack Crack Result Information
-   - [+] Chack Chackpoint ID Option 
-   - [+] User-Agent
