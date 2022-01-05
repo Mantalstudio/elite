@@ -12,7 +12,14 @@
 <p align="center">
  <img src="https://github.com/Bilal-XD/elite/blob/main/Screenshots/20220105_153612.jpg" width="1350" title="Menu" alt="Menu">
 
-
+ --[+] Crack ID From Public 
+ --[+] Crack ID From Follower
+ --[+] Crack ID From Reacts Post
+ --[+] Chack Target ID Information
+ --[+] Dump ID Freind List ID
+ --[+] Chack Crack Result Information
+ --[+] Chack Chackpoint ID Option 
+ --[+] User-Agent
 ### Commands <)
  - `apt update && apt upgrade`
  - `pkg install python -y`
