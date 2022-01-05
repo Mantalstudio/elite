@@ -1,7 +1,12 @@
 # elite
-New Facebook Accounts Cloning Script In python For Termux - Update Version - Not Paid - Free Script - Open Source :) 
-
-
+ - [+] Crack ID From Public 
+ - [+] Crack ID From Follower
+ - [+] Crack ID From Reacts Post
+ - [+] Chack Target ID Information
+ - [+] Dump ID Freind List ID
+ - [+] Chack Crack Result Information
+ - [+] Chack Chackpoint ID Option 
+ - [+] User-Agent
 
 ## Screenshot :)
 <p align="center">
