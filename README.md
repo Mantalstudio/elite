@@ -17,6 +17,13 @@
        - [+] X Facebook
        - [+] D Facebook
        - [+] Touch Facebook
+ ##### Passwords
+   - [+] Name + Numbers
+   - [+] Combination Passwords
+   - [+] Simple Name + Numbers
+   - [+] Number Passwords
+   - [+] Alfabatic Passwords
+   - [+] Extra Passwords
 ## Screenshot :)
 <p align="center">
  <img src="https://github.com/Bilal-XD/elite/blob/main/Screenshots/20220105_153612.jpg" width="1350" title="Menu" alt="Menu">
