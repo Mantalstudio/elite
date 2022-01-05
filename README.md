@@ -21,3 +21,6 @@ New Facebook Accounts Cloning Script In python For Termux - Update Version - Not
  - `pip2 install mechanize`
  - `chmod 777 elite.py`
  - `python elite.py`
+
+#### WARNING : 
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
